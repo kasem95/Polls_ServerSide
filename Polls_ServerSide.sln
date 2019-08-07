@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.352
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Polls_ServerSide", "Polls_ServerSide\", "{F90391CA-E972-4440-BC07-F6A58E1D712D}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.7.2"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_3200"
+		Debug.AspNetCompiler.PhysicalPath = "Polls_ServerSide\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_3200\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_3200"
+		Release.AspNetCompiler.PhysicalPath = "Polls_ServerSide\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_3200\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "3200"
+		SlnRelativePath = "Polls_ServerSide\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F90391CA-E972-4440-BC07-F6A58E1D712D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F90391CA-E972-4440-BC07-F6A58E1D712D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {23D3B452-7284-4DEA-B9C2-40C7009F7CC7}
+	EndGlobalSection
+EndGlobal
